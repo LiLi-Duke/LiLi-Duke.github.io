@@ -4,9 +4,13 @@ You can use the [editor on GitHub](https://github.com/LiLi-Duke/LiLi-Duke.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Who am I?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a data scientist/machine learning engineer/data nerd, whatever you want to name it. But basically, I enjoy making sense of data and making predictive models. 
+
+I come from Economics/Statistics background into data science domain. My major in both college and graduate school is Economics & Mathematics. So my modeling experience started from Econometrics/Statistics. 
+
+But right now, I'm a hybrid of model developer + some kinda of engineer + problem solver. I built my hybrid "attribute" from my working experience during the last several years at Capital One, where I was model developer for credit card underwriting models (that determine approve/decline + credit line assignment decisions for $13B annual exposure) and credit card fraud models. I gained the end-to-end experience from gathering data to building model and eventually to deploy model into production environment. Right now, I'm a full time data scientist at Visa, where I'm focused on credit card transaction fraud models for the largest payment processing network in the world. 
 
 ```markdown
 Syntax highlighted code block
